@@ -1,4 +1,4 @@
-# Concept Note: Customer Shopping Trends Analysis
+# Customer Shopping Trends Analysis
 
 ## Objective
 The primary objective of this study is to utilize data analytics techniques to enhance business decision-making processes. The study aims to identify patterns, trends, and insights from a large dataset of customer purchases to support strategic planning, optimize marketing strategies, and improve customer satisfaction.
